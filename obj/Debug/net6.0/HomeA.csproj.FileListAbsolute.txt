@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\HomeA\bin\Debug\net6.0\HomeA.exe
+D:\GITREPOSITORI\GeekBrains\HomeA\bin\Debug\net6.0\HomeA.deps.json
+D:\GITREPOSITORI\GeekBrains\HomeA\bin\Debug\net6.0\HomeA.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\HomeA\bin\Debug\net6.0\HomeA.dll
+D:\GITREPOSITORI\GeekBrains\HomeA\bin\Debug\net6.0\HomeA.pdb
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.dll
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\refint\HomeA.dll
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.pdb
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\HomeA.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\HomeA\obj\Debug\net6.0\ref\HomeA.dll
